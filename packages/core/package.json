@@ -1,6 +1,6 @@
 {
   "name": "@soug-cli/core",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "soug-cli core",
   "author": "sunyfg <yanfeng_sun@yeah.net>",
   "homepage": "",
@@ -24,7 +24,7 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@soug-cli/utils": "^1.0.4"
+    "@soug-cli/utils": "^1.0.5"
   },
   "gitHead": "fb68016489c8d09c51e7ec7c6ab30e0c5aaaba3b"
 }
