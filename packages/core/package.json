@@ -17,6 +17,7 @@
     "lib"
   ],
   "publishConfig": {
+    "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
@@ -24,5 +25,6 @@
   },
   "dependencies": {
     "@soug-cli/utils": "^1.0.1"
-  }
+  },
+  "gitHead": "5b490d1449837f959f94bf71a8c8c1f91c138d5d"
 }
